@@ -1,4 +1,3 @@
-url: "https://v4913.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "v4913" # the name of your site, e.g. ACME Corp.
-theme: minima
+domain: v4913.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://v4913.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /v4913.github.io/      # place folder name if the site is served in a subfolder
